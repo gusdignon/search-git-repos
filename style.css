@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    text-align: center;
+}
+body{
+    background-color: silver;
+}
+#app{
+    background-color: blueviolet;
+}
+#azul{
+    background-color: cyan;
+}

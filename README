@@ -1,0 +1,6 @@
+Projeto para aprendizagem, exercicios II e III do desafio 3 de JavaScript da rocketseat
+baseado no desafio https://skylab.rocketseat.com.br/api/files/1566499182493.pdf
+
+Implantar busca de repositorios no github a partir do input do nome do usuario
+Utilizado AJAX, biblioteca axios, aplicando conceito de promises
+
